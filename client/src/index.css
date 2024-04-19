@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+    .drop {
+        filter: drop-shadow(); 
+    }
+}
+
+.active {
+    color: #19191c;
+    border-bottom: 4px solid #19191c;
+}

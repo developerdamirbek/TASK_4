@@ -1,0 +1,483 @@
+{
+  "users": [
+    {
+      "email": "devdamirbek@gmail.com",
+      "password": "$2a$10$Zra2KSVdbB1RsR8SF8i8POFhGaQY9tT.cNmjQYTpr79ZAjxAnsij6",
+      "name": "Damirbek",
+      "surname": "Xursanaliyev",
+      "id": 1
+    },
+    {
+      "email": "dededed@dsds.fdddgd",
+      "password": "$2a$10$ePxFuEmLudna3VcYFaf6IeY7ZSlhSupxm56fb.3CO5Mf41OYH9iJK",
+      "name": "qwertyui",
+      "surname": "qwertyui",
+      "id": 2
+    }
+  ],
+  "category": [
+    {
+      "id": "100",
+      "name": "Ko’chmas mulk",
+      "img": "https://raw.githubusercontent.com/developerdamirbek/OXO/main/src/assets/icons/home.svg",
+      "datakey": "home"
+    },
+    {
+      "id": "101",
+      "name": "Ish",
+      "img": "https://raw.githubusercontent.com/developerdamirbek/OXO/main/src/assets/icons/bag.svg",
+      "datakey": "work"
+    },
+    {
+      "id": "102",
+      "name": "Xobbi",
+      "img": "https://raw.githubusercontent.com/developerdamirbek/OXO/main/src/assets/icons/hobby.svg",
+      "datakey": "hobby"
+    },
+    {
+      "id": "103",
+      "name": "Uy va bog‘",
+      "img": "https://raw.githubusercontent.com/developerdamirbek/OXO/main/src/assets/icons/garden.svg",
+      "datakey": "garden"
+    },
+    {
+      "id": "104",
+      "name": "Transport",
+      "img": "https://raw.githubusercontent.com/developerdamirbek/OXO/main/src/assets/icons/car.svg",
+      "datakey": "transport"
+    },
+    {
+      "id": "105",
+      "name": "Elektr jihozlari",
+      "img": "https://raw.githubusercontent.com/developerdamirbek/OXO/main/src/assets/icons/desktop.svg",
+      "datakey": "electric"
+    },
+    {
+      "id": "106",
+      "name": "Bolalar uchun",
+      "img": "https://raw.githubusercontent.com/developerdamirbek/OXO/main/src/assets/icons/velo.svg",
+      "datakey": "children"
+    },
+    {
+      "id": "107",
+      "name": "Moda va stil",
+      "img": "https://raw.githubusercontent.com/developerdamirbek/OXO/main/src/assets/icons/clothes.svg",
+      "datakey": "fashion"
+    },
+    {
+      "id": "108",
+      "name": "Xizmatlar",
+      "img": "https://raw.githubusercontent.com/developerdamirbek/OXO/main/src/assets/icons/services.svg",
+      "datakey": "services"
+    },
+    {
+      "id": "109",
+      "name": "Hayvonlar",
+      "img": "https://raw.githubusercontent.com/developerdamirbek/OXO/main/src/assets/icons/animal.svg",
+      "datakey": "animals"
+    },
+    {
+      "id": "110",
+      "name": "Tekinga beraman",
+      "img": "https://raw.githubusercontent.com/developerdamirbek/OXO/main/src/assets/icons/free.svg",
+      "datakey": "free"
+    },
+    {
+      "id": "111",
+      "name": "Ayirboshlash",
+      "img": "https://raw.githubusercontent.com/developerdamirbek/OXO/main/src/assets/icons/exchange.svg",
+      "datakey": "exchange"
+    },
+    {
+      "id": "112",
+      "name": "Yordam Markazi",
+      "img": "https://raw.githubusercontent.com/developerdamirbek/OXO/main/src/assets/icons/help.svg",
+      "datakey": "help"
+    }
+  ],
+  "all": [
+    {
+      "title": "wertyuio",
+      "datakey": "work",
+      "image": "https://images.uzum.uz/ce092e2vtie1lhbe9gpg/original.jpg",
+      "description": "wdefeer",
+      "price": "2344",
+      "location": "Toshkent shahri",
+      "name": "Damirbek",
+      "email": "devdamirbek@gmail.com",
+      "phone": "8940719979",
+      "date": "March 18 at 15:09",
+      "id": 1
+    },
+    {
+      "title": "Kir yuvish mashinasi Beko WSPE7H616, 7.5 kg, 1200 ay/daq, avtomat, Inverter",
+      "datakey": "home",
+      "image": "https://images.uzum.uz/cmq97u925ku8ad8it4dg/original.jpg",
+      "description": "Yuklash hajmi: 7.5 kg\nYuvish shovqin darajasi: 63 db\nMaksimal aylanish tezligi: 1200 ay/daq\nProsmart™inverterli dvigatel\nBug': SteamCure®\nDasturlar soni: 15\nBoshqarish tizimi: Displey\nBaraban materiali: Zanglamaydigan po'lat\nBug' berish: Bor\nDisplay: Bor",
+      "price": "234",
+      "location": "Xorazm viloyati",
+      "name": "Damirbek",
+      "email": "devdamirbek@gmail.com",
+      "phone": "8940719979",
+      "date": "March 18 at 18:30",
+      "id": 2
+    },
+    {
+      "title": "Changyutgich Philips XB2062/01",
+      "datakey": "home",
+      "image": "https://images.uzum.uz/ckbsnq4vutv73otralb0/original.jpg",
+      "description": "Chang yig‘uvchi idish hajmi: 1.3 litr\nQuvvatini boshqarish: Korpus ustida\nChang yig‘ish idishi: Konteyner\nIshlab chiqaruvchi davlat: Xitoy\nSo‘rish quvvati: 360 Vt\nNasadkalar: Multi-purpose nozzle, burchaklar uchun\nKafolat: 2 yil\nTarmoq kabeli uzunligi: 6 m\nShovqin darajasi: 82 dB",
+      "price": "453",
+      "location": "Andijon viloyati",
+      "name": "Damirbek",
+      "email": "devdamirbek@gmail.com",
+      "phone": "8940719979",
+      "date": "March 18 at 18:31",
+      "id": 3
+    },
+    {
+      "title": "Sovutgich Roison RHWG DF2-27, 205 litr",
+      "datakey": "home",
+      "image": "https://images.uzum.uz/cjq7iobk9fq13g450ri0/original.jpg",
+      "description": "Iqlim kategoriyasi - N,ST\nElektr toki urushiga qarshi himoya sinfi - I\nNominal kuchlanish - 220-240V. Nominal chastota - 50Hz\nNominal tok - 0,9A\nUmumiy hajmi - 205L\nMuzni eritish tizimi - Defrost\nRaflar - Shisha / 3 dona\nBoshqarish turi - mexanik. O'zbekistonda ishlab chiqarilgan.\nKafolat - 3 yil! Kafolat qog'ozi elektron tarzda 3 ish kuni ichida taqdim etiladi, bu uchun chatga murojaat qilishingizni so'raymiz\nMahsulotni qabul qilishdan oldin tekshirib oling!",
+      "price": "687",
+      "location": "Jizzax viloyati",
+      "name": "Damirbek",
+      "email": "devdamirbek@gmail.com",
+      "phone": "8940719979",
+      "date": "March 18 at 18:32",
+      "id": 4
+    },
+    {
+      "title": "Smartfon Samsung Galaxy A05s 4 GB RAM, 128 GB, 90 Hz, 50 MP, Snapdragon 680 4G",
+      "datakey": "electric",
+      "image": "https://images.uzum.uz/clvgq7s6pk58gtm6qke0/original.jpg",
+      "description": "Xotira kartasi - MicroSD\nProtsessor - Qualcomm Snapdragon 680\nRAM - 4 GB\nXotira - 128 GB\nMaks. zaryadlash quvvati - 25 Vt\nMatritsa - 50 megapiksel\nChiroq - LED\nStabilizatsiya - Raqamli\nBatareya - 5000 mA/soat\nSurat o'lchamlari - 8192 * 6144",
+      "price": "345",
+      "location": "Farg‘ona viloyati",
+      "name": "Damirbek",
+      "email": "devdamirbek@gmail.com",
+      "phone": "8940719979",
+      "date": "March 18 at 19:20",
+      "id": 5
+    },
+    {
+      "title": "Simsiz quloqchinlar Realme Buds T100 RMA2109",
+      "datakey": "electric",
+      "image": "https://images.uzum.uz/cnq5qjv2u18vf2j8mqcg/original.jpg",
+      "description": "qwqererd cfdfdgsdg",
+      "price": "34",
+      "location": "Sirdaryo viloyati",
+      "name": "Damirbek",
+      "email": "devdamirbek@gmail.com",
+      "phone": "8940719979",
+      "date": "March 18 at 19:21",
+      "id": 6
+    },
+    {
+      "title": "Smart televizor WellStars 43\"-75\", ovozli qidiruv pulti",
+      "datakey": "electric",
+      "image": "https://images.uzum.uz/cmjnpv3ifoubkc6oc2sg/original.jpg",
+      "description": "Model: 4300 - 43\"; 5500 - 55\"; 7500 - 70\". 55\"-70\" - UzDigital o'qiydi.\nEkranni yangilash tezligi - 60 Gts. Bluetooth - bor\nRAM 4300 - 1 GB, 5500-7500- 1,5 GB; Xotira-8 GB\nIkkita masofadan boshqarish pulti, 1 ta ovozli boshqaruv. 5500-7500 modellari Magic masofadan boshqarish pultiga ega\n4300 - Android TV; 5500, 7500 - WebOS\n4300 - Full HD; 5500, 7500 - 4K Ultra HD\nImport texnika. Zavod tomonidan ishlab chiqarilgan.\nOvozli qidiruv - bor\nUSB - 2; HDMI - 3, DVB T2/S2 - bor\nKafolat 3 yil. Xitoyda ishlab chiqarilgan.",
+      "price": "896",
+      "location": "Surxandaryo viloyati",
+      "name": "Damirbek",
+      "email": "devdamirbek@gmail.com",
+      "phone": "8940719979",
+      "date": "March 18 at 19:22",
+      "id": 7
+    },
+    {
+      "title": "Noutbuk Lenovo Intel celeron N4500 Windows va dasturlar o'rnatilgan 15.6 FHD",
+      "datakey": "electric",
+      "image": "https://images.uzum.uz/cld5q8tennt861iqbsog/original.jpg",
+      "description": "Windows 10 PRO. Barcha drayverlar, shuningdek ofis ishi uchun zarur bo'lgan asosiy dasturlar (WORD - EXCEL) o'rnatilgan.\nProtsessor: Intel® Celeron® Processor N4500\nТактовая частота CPU: 1.10 GHz\nМаксимальная частота процессора: 2.80 GHz\nКоличество ядер процессора: 2 ядра\nDispley: 15.6\" FullHD\nOperativ xotira: 4 GB DDR4\nDoimiy xotira: 256 GB SSD m2\nWindows va dasturlar o'rnatilgan",
+      "price": "324",
+      "location": "Samarqand viloyati",
+      "name": "Damirbek",
+      "email": "devdamirbek@gmail.com",
+      "phone": "8940719979",
+      "date": "March 18 at 19:24",
+      "id": 8
+    },
+    {
+      "title": "Smartfon Apple iPhone 13 128 GB 6.1\" OLED, IP68, 5G",
+      "datakey": "electric",
+      "image": "https://images.uzum.uz/cmst6t1s99ouqbfskmn0/original.jpg",
+      "description": "Mahsulot 1 yillik rasmiy kafolatga ega\nUZIMEI tizimidan ro'yhatdan o'tgan",
+      "price": "1199",
+      "location": "Namangan viloyati",
+      "name": "Damirbek",
+      "email": "devdamirbek@gmail.com",
+      "phone": "8940719979",
+      "date": "March 18 at 19:25",
+      "id": 9
+    },
+    {
+      "title": "fsfsdsdgdgdgd",
+      "datakey": "electric",
+      "image": "https://raw.githubusercontent.com/developerdamirbek/Gipermart_images/main/products/laptop1.png",
+      "description": "dfgsdgdgd",
+      "price": "2345",
+      "location": "Samarqand viloyati",
+      "name": "Damirbek",
+      "email": "devdamirbek@gmail.com",
+      "phone": "3456787654",
+      "date": "March 18 at 19:43",
+      "id": 10
+    },
+    {
+      "title": "Kir yuvish mashinasi Beko WSPE7H616, 7.5 kg, 1200 ay/daq, avtomat, Inverter",
+      "datakey": "home",
+      "image": "https://images.uzum.uz/cmq97u925ku8ad8it4dg/original.jpg",
+      "description": "Yuklash hajmi: 7.5 kg\\nYuvish shovqin darajasi: 63 db\\nMaksimal aylanish tezligi: 1200 ay/daq\\nProsmart™inverterli dvigatel\\nBug': SteamCure®\\nDasturlar soni: 15\\nBoshqarish tizimi: Displey\\nBaraban materiali: Zanglamaydigan po'lat\\nBug' berish: Bor\\nDisplay: Bor",
+      "price": "2345",
+      "location": "Sirdaryo viloyati",
+      "name": "Damirbek",
+      "email": "devdamirbek@gmail.com",
+      "phone": "8940719979",
+      "date": "March 18 at 19:46",
+      "id": 11
+    },
+    {
+      "title": "Changyutgich Philips XB2062/01",
+      "datakey": "work",
+      "image": "https://images.uzum.uz/ckbsnq4vutv73otralb0/original.jpg",
+      "description": "wertyui sdfgh cvbnm ujmnbvf",
+      "price": "233",
+      "location": "Qashqadaryo viloyati",
+      "name": "Damirbek",
+      "email": "devdamirbek@gmail.com",
+      "phone": "8940719979",
+      "date": "March 18 at 19:47",
+      "id": 12
+    },
+    {
+      "title": "Sovutgich Roison RHWG DF2-27, 205 litr",
+      "datakey": "hobby",
+      "image": "https://images.uzum.uz/cjq7iobk9fq13g450ri0/original.jpg",
+      "description": "qwewr sdfghrfgdfd utruoo tio  otor t oiutiruoiru riiut rtiortu usohsdihcbvcxkv",
+      "price": "234",
+      "location": "Buxoro viloyati",
+      "name": "Damirbek",
+      "email": "devdamirbek@gmail.com",
+      "phone": "8940719979",
+      "date": "March 18 at 19:47",
+      "id": 13
+    },
+    {
+      "title": "Smartfon Samsung Galaxy A05s 4 GB RAM, 128 GB, 90 Hz, 50 MP, Snapdragon 680 4G",
+      "datakey": "garden",
+      "image": "https://images.uzum.uz/clvgq7s6pk58gtm6qke0/original.jpg",
+      "description": "qwert asdfg zxcvb qwert asdfg zxcvb",
+      "price": "233",
+      "location": "Qoraqalpog‘iston Respublikasi",
+      "name": "Damirbek",
+      "email": "devdamirbek@gmail.com",
+      "phone": "8940719979",
+      "date": "March 18 at 19:49",
+      "id": 14
+    },
+    {
+      "title": "Simsiz quloqchinlar Realme Buds T100 RMA2109",
+      "datakey": "transport",
+      "image": "https://images.uzum.uz/cnq5qjv2u18vf2j8mqcg/original.jpg",
+      "description": "qwer asdfzxcvb dsfgdhfgreg fdgertgr",
+      "price": "32",
+      "location": "Andijon viloyati",
+      "name": "Damirbek",
+      "email": "devdamirbek@gmail.com",
+      "phone": "8940719979",
+      "date": "March 18 at 19:52",
+      "id": 15
+    },
+    {
+      "title": "sdfdsdgdsfsdfs",
+      "datakey": "electric",
+      "image": "dsfsdfsdfds",
+      "description": "sdfsdfsdfsdf",
+      "price": "2345",
+      "location": "Surxandaryo viloyati",
+      "name": "Damirbek",
+      "email": "devdamirbek@gmail.com",
+      "phone": "234567890",
+      "date": "March 19 at 12:49",
+      "id": 16
+    },
+    {
+      "title": "sdfghjkljhgfd",
+      "datakey": "fashion",
+      "image": "dfgfhjkjggcb",
+      "description": "dfghhnjdf",
+      "price": "2345",
+      "location": "Surxandaryo viloyati",
+      "name": "Damirbek",
+      "email": "devdamirbek@gmail.com",
+      "phone": "2345678",
+      "date": "March 19 at 12:51",
+      "id": 17
+    },
+    {
+      "title": "iPhone 15",
+      "datakey": "children",
+      "image": "https://images.uzum.uz/cmst6t1s99ouqbfskmn0/original.jpg",
+      "description": "wertdv cvbdfghbdf dfghfdgn",
+      "price": "23454",
+      "location": "Toshkent shahri",
+      "name": "Damirbek",
+      "email": "devdamirbek@gmail.com",
+      "phone": "8940719979",
+      "date": "March 19 at 12:53",
+      "id": 18
+    },
+    {
+      "title": "aypon",
+      "datakey": "home",
+      "image": "                alert(\"E'lon muvaffaqiyatli joylandi!\")",
+      "description": "Maqtanishmasu meni ayponim bor :)",
+      "price": "1233",
+      "location": "Farg‘ona viloyati",
+      "name": "Damirbek",
+      "email": "devdamirbek@gmail.com",
+      "phone": "8940719979",
+      "date": "March 19 at 12:54",
+      "id": 19
+    }
+  ],
+  "home": [
+    {
+      "title": "Kir yuvish mashinasi Beko WSPE7H616, 7.5 kg, 1200 ay/daq, avtomat, Inverter",
+      "datakey": "home",
+      "image": "https://images.uzum.uz/cmq97u925ku8ad8it4dg/original.jpg",
+      "description": "Yuklash hajmi: 7.5 kg\\nYuvish shovqin darajasi: 63 db\\nMaksimal aylanish tezligi: 1200 ay/daq\\nProsmart™inverterli dvigatel\\nBug': SteamCure®\\nDasturlar soni: 15\\nBoshqarish tizimi: Displey\\nBaraban materiali: Zanglamaydigan po'lat\\nBug' berish: Bor\\nDisplay: Bor",
+      "price": "2345",
+      "location": "Sirdaryo viloyati",
+      "name": "Damirbek",
+      "email": "devdamirbek@gmail.com",
+      "phone": "8940719979",
+      "date": "March 18 at 19:46",
+      "id": 1
+    }
+  ],
+  "work": [
+    {
+      "title": "wertyuio",
+      "datakey": "work",
+      "image": "https://images.uzum.uz/ce092e2vtie1lhbe9gpg/original.jpg",
+      "description": "wdefeer",
+      "price": "2344",
+      "location": "Toshkent shahri",
+      "name": "Damirbek",
+      "email": "devdamirbek@gmail.com",
+      "phone": "8940719979",
+      "date": "March 18 at 15:09",
+      "id": 1
+    },
+    {
+      "title": "Changyutgich Philips XB2062/01",
+      "datakey": "work",
+      "image": "https://images.uzum.uz/ckbsnq4vutv73otralb0/original.jpg",
+      "description": "wertyui sdfgh cvbnm ujmnbvf",
+      "price": "233",
+      "location": "Qashqadaryo viloyati",
+      "name": "Damirbek",
+      "email": "devdamirbek@gmail.com",
+      "phone": "8940719979",
+      "date": "March 18 at 19:47",
+      "id": 2
+    }
+  ],
+  "hobby": [
+    {
+      "title": "Sovutgich Roison RHWG DF2-27, 205 litr",
+      "datakey": "hobby",
+      "image": "https://images.uzum.uz/cjq7iobk9fq13g450ri0/original.jpg",
+      "description": "qwewr sdfghrfgdfd utruoo tio  otor t oiutiruoiru riiut rtiortu usohsdihcbvcxkv",
+      "price": "234",
+      "location": "Buxoro viloyati",
+      "name": "Damirbek",
+      "email": "devdamirbek@gmail.com",
+      "phone": "8940719979",
+      "date": "March 18 at 19:47",
+      "id": 1
+    }
+  ],
+  "garden": [
+    {
+      "title": "Smartfon Samsung Galaxy A05s 4 GB RAM, 128 GB, 90 Hz, 50 MP, Snapdragon 680 4G",
+      "datakey": "garden",
+      "image": "https://images.uzum.uz/clvgq7s6pk58gtm6qke0/original.jpg",
+      "description": "qwert asdfg zxcvb qwert asdfg zxcvb",
+      "price": "233",
+      "location": "Qoraqalpog‘iston Respublikasi",
+      "name": "Damirbek",
+      "email": "devdamirbek@gmail.com",
+      "phone": "8940719979",
+      "date": "March 18 at 19:49",
+      "id": 1
+    }
+  ],
+  "transport": [
+    {
+      "title": "Simsiz quloqchinlar Realme Buds T100 RMA2109",
+      "datakey": "transport",
+      "image": "https://images.uzum.uz/cnq5qjv2u18vf2j8mqcg/original.jpg",
+      "description": "qwer asdfzxcvb dsfgdhfgreg fdgertgr",
+      "price": "32",
+      "location": "Andijon viloyati",
+      "name": "Damirbek",
+      "email": "devdamirbek@gmail.com",
+      "phone": "8940719979",
+      "date": "March 18 at 19:52",
+      "id": 1
+    }
+  ],
+  "electric": [
+    {
+      "title": "sdfdsdgdsfsdfs",
+      "datakey": "electric",
+      "image": "dsfsdfsdfds",
+      "description": "sdfsdfsdfsdf",
+      "price": "2345",
+      "location": "Surxandaryo viloyati",
+      "name": "Damirbek",
+      "email": "devdamirbek@gmail.com",
+      "phone": "234567890",
+      "date": "March 19 at 12:49",
+      "id": 1
+    }
+  ],
+  "children": [
+    {
+      "title": "iPhone 15",
+      "datakey": "children",
+      "image": "https://images.uzum.uz/cmst6t1s99ouqbfskmn0/original.jpg",
+      "description": "wertdv cvbdfghbdf dfghfdgn",
+      "price": "23454",
+      "location": "Toshkent shahri",
+      "name": "Damirbek",
+      "email": "devdamirbek@gmail.com",
+      "phone": "8940719979",
+      "date": "March 19 at 12:53",
+      "id": 1
+    },
+    {
+      "title": "aypon",
+      "datakey": "home",
+      "image": "                alert(\"E'lon muvaffaqiyatli joylandi!\")",
+      "description": "Maqtanishmasu meni ayponim bor :)",
+      "price": "1233",
+      "location": "Farg‘ona viloyati",
+      "name": "Damirbek",
+      "email": "devdamirbek@gmail.com",
+      "phone": "8940719979",
+      "date": "March 19 at 12:54",
+      "id": 2
+    }
+  ],
+  "services": [],
+  "animals": [],
+  "free": [],
+  "exchange": [],
+  "help": []
+}
